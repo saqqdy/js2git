@@ -10,7 +10,6 @@ js2git is a modern, high performance git client for node.js
 ![typescript][typescript-url]
 [![Test coverage][codecov-image]][codecov-url]
 [![npm download][download-image]][download-url]
-[![gzip][gzip-image]][gzip-url]
 [![License][license-image]][license-url]
 
 [![Sonar][sonar-image]][sonar-url]
@@ -108,8 +107,6 @@ Please open an issue [here](https://github.com/saqqdy/js2git/issues).
 [codecov-url]: https://codecov.io/github/saqqdy/js2git?branch=master
 [download-image]: https://img.shields.io/npm/dm/js2git.svg?style=flat-square
 [download-url]: https://npmjs.org/package/js2git
-[gzip-image]: http://img.badgesize.io/https://unpkg.com/js2git/dist/index.global.prod.js?compression=gzip&label=gzip%20size:%20JS
-[gzip-url]: http://img.badgesize.io/https://unpkg.com/js2git/dist/index.global.prod.js?compression=gzip&label=gzip%20size:%20JS
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: LICENSE
 [sonar-image]: https://sonarcloud.io/api/project_badges/quality_gate?project=saqqdy_js2git

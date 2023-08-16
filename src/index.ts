@@ -1,3 +1,2 @@
-export default function config() {
-	//
-}
+export * from './config'
+export const version = '__VERSION__' as string

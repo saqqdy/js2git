@@ -1,5 +1,5 @@
 import main from './index.cjs.js'
 
-const { version } = main
+const { version, config } = main
 
-export { main as default, version }
+export { main as default, version, config }
